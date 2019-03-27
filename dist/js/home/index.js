@@ -1,0 +1,1 @@
+!function(){"use strict";$("body").on("click",function(){console.log(function(n){return 1+n}(1)),$(this).html(function(n){return n+"sss"}("index"))})}();

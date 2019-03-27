@@ -1,0 +1,24 @@
+{
+  "name": "gulp-ts-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-rollup-each": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^1.9.3",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.29"
+  }
+}
